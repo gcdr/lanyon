@@ -6,12 +6,12 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               Emacs-Types
+title:               Gcdr Website
 #tagline:             'foo's website
 description:         Foooo's blog...
-url: https://gcdr.github.io/emacs-types
+url: https://gcdr.github.io/
 baseurl: "/lanyon-plus"
-urlimg: https://gcdr.github.io/emacs-types/images/
+urlimg: https://gcdr.github.io/images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
