@@ -10,7 +10,7 @@ title:               Gcdr Website
 #tagline:             'foo's website
 description:         Foooo's blog...
 url: https://gcdr.github.io/
-baseurl: "/lanyon-plus"
+baseurl: "/"
 urlimg: https://gcdr.github.io/images/
 markdown: kramdown
 paginate: 5
