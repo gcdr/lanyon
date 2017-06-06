@@ -8,11 +8,11 @@ encoding: utf-8
 
 # Setup
 title:               My Website
-#tagline:             'fooO's website
-description:         FooO's blog...
-url: https://gcdr.github.io
+#tagline:             'foo's website
+description:         Foo's blog...
+url: https://lanyon-plus.sbamin.com
 baseurl: ""
-urlimg: https://gcdr.github.io/images/
+urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
 #url: https://dyndna.github.io/lanyon-plus
 #baseurl: "/lanyon-plus"
@@ -49,15 +49,15 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              FooO Boo
+  name:              Foo Boo
   url:               https://twitter.com/abcd
-  avatar:         fooO.png
+  avatar:         foo.png
   #email:           
 
 # Owner/author information
 owner:
-  name:           FooO Boo
-  avatar:         fooO.png
+  name:           Foo Boo
+  avatar:         foo.png
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
@@ -66,11 +66,11 @@ owner:
   facebook:       
   github:         xyz123abc
   stackexchange:  
-  linkedin:       https://www.linkedin.com/in/fooO
+  linkedin:       https://www.linkedin.com/in/foo
   instagram:      
   flickr:
   tumblr:  
-  google_plus:    https://plus.google.com/+fooO
+  google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
   orcid: xyz123abc
   gscholar: xyz123abc
@@ -89,7 +89,7 @@ links:
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
   - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://fooO.wordpress.com
+    url: https://foo.wordpress.com
     external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
@@ -107,12 +107,12 @@ links:
 #twitter_widget_id: xyz123abc
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: fooO
+disqus_shortname: foo
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   xyz123abc
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/gcdr/ham
+github_repo: https://github.com/gcdr/lanyon-plus
 version: 1.1.1
 ## END ##
