@@ -6,12 +6,12 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               foo
+title:               Emacs-Types
 #tagline:             'foo's website
-description:         Foo's blog...
-url: https://dyndna.github.io/lanyon-plus
+description:         Foooo's blog...
+url: https://gcdr.github.io/emacs-types
 baseurl: "/lanyon-plus"
-urlimg: https://dyndna.github.io/lanyon-plus/images/
+urlimg: https://gcdr.github.io/emacs-types/images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
+  name:              Foooo Boo
   url:               https://twitter.com/abcd
   avatar:         foo.png
   #email:           
@@ -91,7 +91,7 @@ links:
 #twitter_widget_id: xyz123abc
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: foo
+disqus_shortname: foooo
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   xyz123abc
