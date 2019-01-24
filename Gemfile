@@ -1,12 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'nokogiri', '>= 1.8.5'
+# gem 'nokogiri', '>= 1.8.5'
 gem 'addressable', '= 2.3.8'
 gem 'jekyll', '>= 3.6.3'
 
-group :jekyll_plugins do
-gem 'github-pages', '>= 93'
-end
+#group :jekyll_plugins do
+#gem 'github-pages', '>= 93'
+#end
 
 group :jekyll_misc_plugins do
 gem 'jekyll-compose', '>= 0.4.1'
