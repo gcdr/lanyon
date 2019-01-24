@@ -5,9 +5,9 @@ gem 'addressable', '>= 2.3.8'
 gem 'jekyll', '>= 3.6.3'
 gem 'ffi', '>= 1.9.25'
 
-#group :jekyll_plugins do
-#gem 'github-pages', '>= 93'
-#end
+group :jekyll_plugins do
+gem 'github-pages', '>= 93'
+end
 
 group :jekyll_misc_plugins do
 gem 'jekyll-compose', '>= 0.4.1'
