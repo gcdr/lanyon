@@ -2,11 +2,11 @@ source 'https://rubygems.org'
 
 gem 'nokogiri', '>= 1.8.5'
 gem 'addressable', '>= 2.3.8'
-gem 'jekyll', '>= 3.6.3'
+gem 'jekyll', '>= 3.6.2'
 gem 'ffi', '>= 1.9.25'
 
 group :jekyll_plugins do
-gem 'github-pages', '>= 93'
+gem 'github-pages', '>= 170'
 end
 
 group :jekyll_misc_plugins do
